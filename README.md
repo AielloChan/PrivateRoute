@@ -4,7 +4,7 @@ React route component with permission check
 
 ## Use
 
-```typescriptreact
+```jsx
 import React from 'react'
 import ReactDOM from 'react-dom'
 import { BrowserRouter as Router, Route, Redirect } from 'react-router-dom'
